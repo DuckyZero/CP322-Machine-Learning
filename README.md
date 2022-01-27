@@ -9,4 +9,4 @@ A2 - Not released
 A3 - Not released
 
 # Copy Right Information
-# This is university property and not meant to be used outside of class nor on other websites. This is my personal github repo for the class for personal useage and documentation. Thus, do not copy nor plagarise this information. 
+This is university property and not meant to be used outside of class nor on other websites. This is my personal github repo for the class for personal useage and documentation. Thus, do not copy nor plagarise this information. 
