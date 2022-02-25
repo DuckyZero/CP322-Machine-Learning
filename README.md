@@ -5,7 +5,7 @@ With the rise of Data Science and Big Data, machine learning has been recognized
 
 # Assignments 
 * A1 - Finished
-* A2 - Not released 
+* A2 - Finished
 * A3 - Not released
 
 # Copyright Information
