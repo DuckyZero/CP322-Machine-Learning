@@ -9,9 +9,9 @@ With the rise of Data Science and Big Data, machine learning has been recognized
 * For example, "The zipper broke on this piece the first time I wore it. very disappointing." gives us a strong negative sentiment.
 
 # Assignments 
-* A1 - Finished
-* A2 - Finished
-* A3 - Neural Nets & Support Vector Machines
+* A1 - Decision Trees, Random Forests, GINI, IG, 10-Fold Cross-Validation, Precision, Recall (Completed)
+* A2 - K-Nearest Neighbour, Naive Bayes (Gaussian Classifier), F1-Scores, Heatmaps (Completed)
+* A3 - Neural Nets & Support Vector Machines (Completed)
 
 # Copyright Information
 This is university property and not meant to be used on other websites. This is my personal GitHub repo for the class for persoanl documentation of my work in the class. Thus, do not copy nor plagarise the information presented in this GitHub repo.
